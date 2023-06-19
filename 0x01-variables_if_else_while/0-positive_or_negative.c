@@ -3,10 +3,15 @@
 #include <stdio.h>
 
 /**
- *main - This code will output a number that is positive, negative or zero.
+
+ * main - Code will output a number is positive, negative or zero.
+
  *
+
  * Return: Always 0 (Success)
+
  */
+
 int main(void)
 
 {
