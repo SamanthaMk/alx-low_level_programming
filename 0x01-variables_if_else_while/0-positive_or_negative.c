@@ -1,10 +1,13 @@
 #include <stdlib.h>
+
 #include <time.h>
+
 #include <stdio.h>
+
 
 /**
 
- * main - Code will output a number is positive, negative or zero.
+ * main - Determines if a number is positive, negative or zero.
 
  *
 
@@ -50,3 +53,5 @@ int main(void)
         return (0);
 
 }
+
+
