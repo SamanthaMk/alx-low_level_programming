@@ -1,26 +1,15 @@
 #include <stdlib.h>
-
 #include <time.h>
-
 #include <stdio.h>
 
+/* main - This code will output a number that is positive, negative or zero. */
 
-/**
-
- * main - Output  will be a number is positive, negative or zero.
-
- *
-
- * Return: Always 0 (Success)
-
- */
+/*  Return: Always 0 (Success) */
 
 int main(void)
-
 {
 
         int n;
-
 
         srand(time(0));
 
@@ -51,7 +40,4 @@ int main(void)
         }
 
         return (0);
-
 }
-
-
