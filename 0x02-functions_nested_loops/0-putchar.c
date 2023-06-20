@@ -1,9 +1,7 @@
 #include "main.h"
-
-
 /**
  * main - prints _putchar
- * 
+ * code prints _ putchar
  * Return: 0
  */
 
