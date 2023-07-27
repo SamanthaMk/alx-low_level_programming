@@ -14,7 +14,7 @@ while (*(src + y) != '\0')
 {
 y++;
 }
-for ( ; x < y ; x++)
+for ( ; x < y9-strcpy.c ; x++)
 {
 dest[x] = src[x];
 }
