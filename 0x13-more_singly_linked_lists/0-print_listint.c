@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "lists.h"
-
 /**
  * print_listint - Codes function prints all the elements of a link list
  * @h: linked list of type listint_t to print
@@ -18,4 +17,3 @@ h = h->next;
 }
 return (g);
 }
-
