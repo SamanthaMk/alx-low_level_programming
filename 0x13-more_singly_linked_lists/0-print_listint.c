@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include "lists.h"
 /**
  * print_listint - Codes function prints all the elements of a link list
